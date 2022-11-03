@@ -3,6 +3,7 @@ import React from "react"
 // import { motion } from "framer-motion"
 
 export const Nav = (): JSX.Element => {
+   console.log("123")
    return (
       <nav>
          <a href="/" className="navbar-item" style={{ cursor: "pointer" }}>
