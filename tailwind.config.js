@@ -9,6 +9,10 @@ module.exports = {
             Montserrat: ["Montserrat", ...defaultTheme.fontFamily.sans],
             Poppins: ["Poppins", ...defaultTheme.fontFamily.sans],
          },
+         colors: {
+            primary: "#0A192F",
+            secondary: "#64FFDA",
+         },
       },
    },
    plugins: [],
